@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Businnes Letter</title>
+</head>
+<style>
+    p{
+	font-size:small;
+	font-family:sans-serif;
+}
+h1{
+	font-size:large;
+	font-family:'Times New Roman', Times, serif;
+}
+</style>
+<body>
+    <h1> Sample Businnes Letter </h1>
+    <p>Ken's Cheese House <br> 34,Chatley Avenue <br>Scattle,WA <sub>9</sub>8<sub>7</sub>6<sub>5</sub> <br><br> October <sub>23,2017</sub><br><br>Fred Flinstone<br>Sales Manager<br> Cheese Specialist Inc.<br><sub>45</sub>6 Rubble Road <br>Rockville,IL<sub>7</sub>8<sub>777</sub><br><br>
+    Dear Mr.<mark style="background-color:lawngreen";>Flinstone,</mark><br><br>
+    With reference to our telephone conversation today.I an writing<br>to confirm your order for:<mark>120 x Chrddar Delux</mark> Ref No.8<sub>5</sub>6.<br><br>The order will be shipped within three days via UPS and should<br> arrive at your store in about<mark style="background-color:hotpink";> 10 days</mark>.<br><br>Please contact us again if we can help in any way.<br><br>Yours sincerely,<br>Kenneth Beare<br>Director of Ken's Cheese House
+
+    </p>  
+</body>
+</html>
