@@ -1,0 +1,68 @@
+.clock{
+  width:400px;
+  height:400px;
+  background-color:pink;
+  border-radius:50%;
+  /* border:2px solid black; */
+  position:absolute;
+}
+.point{
+  position:absolute;
+  background-color: chartreuse;
+  width:10px;
+  height:10px;
+  left:50%;
+  bottom:50%;
+  transform:translate(-50%,50%);
+  border-radius:50%;
+}
+.number{
+  /* --r:60; */
+  width:100%;
+  font-family: 'Times New Roman', Times, serif;
+  font-size:large;
+  height:100%;
+  /* background-color:red;  */
+  position:absolute;  
+  text-align:center;
+  transform:rotate(calc(var(--r)*1deg));
+}
+
+.N1{--r:30;}
+.N2{--r:60;}
+.N3{--r:90;}
+.N4{--r:120;}
+.N5{--r:150;}
+.N6{--r:180;}
+.N7{--r:210;}
+.N8{--r:240;}
+.N9{--r:270;}
+.N10{--r:300;}
+.N11{--r:330;}
+.N12{--r:360;}
+.set{
+  --r:30;
+  position:absolute;
+  /* background-color:black; */
+  left:50%;
+  bottom:50%;
+  transform:translate(-50%) rotate(calc(var(--r)*1deg));
+  transform-origin:bottom;
+}
+.H{
+  width:8px;
+  height:30%;
+  background-color:lightblue;
+  --r:60;
+}
+.M{
+  width:5px;
+  height:38%;
+  background-color:green;
+}
+.S{
+  width:2px;
+  height:48%;
+  background-color:red;
+  --r:50;
+}
