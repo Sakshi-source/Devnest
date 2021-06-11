@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            My Resume.
+        </title>
+        <link rel="Stylesheet" href="CSS/style.css" >
+        <body> 
+           <spam>
+           <h1 style="margin-left:80px;" style="color:lightcoral;">SAKSHI SHARMA<span style="font-family: 'Courier New', Courier, monospace;"><sub>(Resume)</sub></span></h1>  
+            <hr size="10px" noshade>               
+            <div class="leftdiv">
+                <h1 style="background-color:chartreuse;">
+                    PERSONAL PROFILE
+                </h1>
+                <p style="margin-left:20px;">Hi! I'm an CSE Undergraduate, currently in 2nd year of my college <a href="@GL bajaj Institute of Technology And Management,Greater Noida">College offlicial site. </a> I am a core team member of my college DSC(Developer Student Club) powered by Google Developers.Currently serving as a Tech web to my club.</p>
+                <h1 style="background-color:chartreuse;">EDUCATION</h1>
+                <table>
+                    <tr>
+                        <td>DEGREE</td>
+                        <td>INSTITUTION</td>
+                        <td>CGPA%</td>
+                    </tr>
+                    <tr>
+                        <td>12<sup>th</sup> Standard,CBSE</td>
+                        <td>MEERUT PUBLIC SCHOOL,MEERUT</td>
+                        <td>89%</td>
+                    </tr>
+                    <tr>
+                        <td>10<sup>th</sup> Standard,CBSE</td>
+                        <td>MEERUT PUBLIC SCHOOL,MEERUT</td>
+                        <TD>95.64%</TD>
+                    </tr>
+                </table>
+                    <h1 style="background-color:chartreuse;">KEY SKILLS</h1>    
+                    <ul>
+                    <li>Teamwork.</li>
+                    <li>Problem Solving Skills.</li>
+                    <li>Adapativity to changes.</li>
+                    <li>Time Management And Project Management.</li>
+                    <li>Strategies thinking and Planning activities.</li>
+                    </ul>
+                </div>
+            <div class="middlediv">
+                <h1 style="background-color:chartreuse;">TECHNICAL KNOWLEDGE</h1>
+                <ul>
+                    <li>Languages:</li>
+                    <li style="list-style-type:none;">C</li>
+                    <li style="list-style-type:none;">C++</li>
+                    <li style="list-style-type:none;">Python</li>
+                    <li>Data structure and algorithm.</li>
+                    <li>Front end html,css,javascript</li>
+                    <li>Databasre and MySql</li>
+                </ul>
+                <h1 style="background-color: chartreuse;">PERSONAL DETAILS</h1>
+                <p style="margin-left:20px;">Father Name:Neeraj Sharma<br>Date of Birth:23 DEC 2002<br>Gender: Female<br>Languages Known:English,Hindi</p>
+                <h1 style="background-color: chartreuse;">HOBBIES</h1>
+                <ul>
+                    <li>Reading novels and story books.</li>
+                    <li>Playing Badminton.</li>
+                    <li>Art and Craft stuff.</li>
+                    <li>Staying in own bubble</li>
+                    <li>Listening music.</li>
+                </ul>
+            </div> 
+            <div class="rightdiv">
+                <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/142819271/original/09dafa4104fa6aeca4e62f33326be4933ae7ccac/create-cartoon-profile-picture-abd7.jpg" width="300" height="300">
+                <h1 style="background-color:chartreuse;">CONTACT DETAILS</h1>
+                <p style="margin-left:20px;">Number:123-456-7890<br> Email:hello@reallygreatsite.com<br> Website:<a target="_blank" href=https://www.google.com>www.reallygreatsite.com</a><br>Address:123 Anywhere St,Any City,<br>State,Country 12345</p> 
+                <span style="margin:20px;"><a href="https://www.linkedin.com/feed/?trk=onboarding-landing ;">Linked In</a></span>
+                <br>
+                <span style="margin:20px;"><a href="https://www.google.com/search?q=instagram&oq=ins&aqs=chrome.0.0i131i433j69i57j0i131i433l3j69i60l3.3171j0j7&sourceid=chrome&ie=UTF-8">Instagram login</a></span>
+            </div> 
+        </span>   
+            <!-- <div class="vertical"></div> -->
+        </body>
+    </head>
+</html>
